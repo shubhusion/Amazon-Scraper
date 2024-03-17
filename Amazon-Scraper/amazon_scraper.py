@@ -2,7 +2,7 @@
     Amazon Web scraper
 
     Modified:   2020-12-20
-    Author:     Israel Dryer
+    Author:     Shubham Sharma
 """
 import csv
 from time import sleep
